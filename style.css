@@ -4,9 +4,9 @@
 }
 body{
 	background-color: #333333;
-	width: 320px;
+	width: 300px;
 	margin: auto;
-	padding: 30px;
+	padding: 20px;
 	color: #ffffff;
 }
 .container{
@@ -15,7 +15,7 @@ body{
 	background-color: #ffffff55;
 	width: 280px;
 	margin: auto;
-	padding: 30px;
+	padding: 20px;
 }
 img{
 	display: block;
@@ -44,4 +44,5 @@ footer{
 	text-align: center;
 	padding: 3px;
 	color: white;
+
 }
