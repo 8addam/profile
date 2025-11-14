@@ -10,9 +10,9 @@ body{
 	color: #111111;
 }
 .container{
-	border: 1px solid #333;
+	border: 1px solid #333333;
 	border-radius: 3%;
-	background-color: #ffffff;
+	background-color: #ececee;
 	width: 280px;
 	margin: auto;
 	padding: 20px;
@@ -46,4 +46,5 @@ footer{
 	color: white;
 
 }
+
 
